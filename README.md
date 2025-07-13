@@ -2,7 +2,7 @@
 
 This project implements a fully functional **ERC20-compatible token** written in **Cairo 1.0**, built using the [Scaffold Stark](https://scaffoldstark.com/docs/quick-start/installation) template.
 
-the contracts and tests are in ,b> packages/snfoundry </b> folder
+the contracts and tests are in <b> packages/snfoundry </b> folder
 
 ### ✨ Features
 
