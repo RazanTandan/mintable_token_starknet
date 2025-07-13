@@ -1,6 +1,6 @@
 # 🪙 Mintable Token (Starknet - Cairo 1.0)
 
-This project implements a fully functional **ERC20-compatible token** written in **Cairo 1.0**, built using the [Scaffold Stark](https://github.com/0xSpaceShard/scaffold-stark) template.
+This project implements a fully functional **ERC20-compatible token** written in **Cairo 1.0**, built using the [Scaffold Stark](https://scaffoldstark.com/docs/quick-start/installation) template.
 
 
 ### ✨ Features
